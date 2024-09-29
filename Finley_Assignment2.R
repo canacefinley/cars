@@ -15,6 +15,7 @@ floor (x)
 round(x, digits = 2)
 # 
 # Part 2. Introductions
+# additional comment for git testing
 # 
 # Create a numeric variable my.age that is equal to your age.
 my.age <- as.numeric(30)
